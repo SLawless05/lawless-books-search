@@ -1,4 +1,3 @@
 node_modules/
-Procfile
+server/config.js
 package-lock.json
-instructions/
